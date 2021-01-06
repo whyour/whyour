@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋  
+
+![](https://komarev.com/ghpvc/?username=whyour&color=green)
 
 <!--
 **whyour/whyour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
