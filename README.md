@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, I am [whyour](https://whyour.cn)
 ![](https://komarev.com/ghpvc/?username=whyour&color=green)
 
-<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=whyour&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f&include_all_commits=true&hide_title=true" align="right">
+<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=whyour&show_icons=true&hide_border=true&include_all_commits=true&hide_title=true" align="right">
 
 **Where to find me**
 
